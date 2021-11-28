@@ -17,10 +17,11 @@
 If you find this repository useful for your research, please use the following.
 
 ```
-@inproceedings{zhang2018perceptual,
-  title={The Unreasonable Effectiveness of Deep Features as a Perceptual Metric},
-  author={Zhang, Richard and Isola, Phillip and Efros, Alexei A and Shechtman, Eli and Wang, Oliver},
-  booktitle={CVPR},
-  year={2018}
+@article{lian2021locating,
+  title={Locating and Counting Heads in Crowds With a Depth Prior},
+  author={Lian, Dongze and Chen, Xianing and Li, Jing and Luo, Weixin and Gao, Shenghua},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2021},
+  publisher={IEEE}
 }
 ```
