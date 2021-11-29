@@ -2,7 +2,9 @@
 [TPAMI] Locating and Counting Heads in Crowds With a Depth Prior
 
 ## Dataset
-You can download or generate the virtual dataset from the [ShanghaiTechRGBDSyn](https://github.com/svip-lab/ShanghaiTechRGBDSyn) repository.
+Download or generate the virtual dataset from the [ShanghaiTechRGBDSyn](https://github.com/svip-lab/ShanghaiTechRGBDSyn) repository.
+
+Download ShanghaiTechRGBD dataset from [OneDrive](https://yien01-my.sharepoint.com/:f:/g/personal/doubility_z0_tn/EhY4Svr1rRlDi7apZTtpepQBJejNSSYnQk1UNSqxhQ3jqA?e=RdhCtz).
 
 ## Depth Completion
 
