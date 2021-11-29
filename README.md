@@ -1,5 +1,5 @@
 # Locating_Counting_with_a_Depth_Prior
-[TPAMI] Locating and Counting Heads in Crowds With a Depth Prior [Paper](https://ieeexplore.ieee.org/document/9601215/)
+[TPAMI] Locating and Counting Heads in Crowds With a Depth Prior [[Paper]](https://ieeexplore.ieee.org/document/9601215/)
 
 ## Dataset
 Download or generate the virtual dataset from the [ShanghaiTechRGBDSyn](https://github.com/svip-lab/ShanghaiTechRGBDSyn) repository.
