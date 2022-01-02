@@ -14,7 +14,7 @@ Download ShanghaiTechRGBD dataset from [OneDrive](https://yien01-my.sharepoint.c
 
 ## Acknowledgements
 
-This repository borrows partially from [VNL](https://github.com/YvanYin/VNL_Monocular_Depth_Prediction).
+This repository borrows partially from [VNL](https://github.com/YvanYin/VNL_Monocular_Depth_Prediction) and [MAML](https://github.com/katerakelly/pytorch-maml).
 
 ## Citation
 
