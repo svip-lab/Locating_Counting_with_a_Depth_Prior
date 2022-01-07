@@ -8,7 +8,7 @@ Download ShanghaiTechRGBD dataset from [OneDrive](https://yien01-my.sharepoint.c
 
 ## Depth Completion
 
-## StyleTransfer
+## Style Transfer
 
 ## Train
 
