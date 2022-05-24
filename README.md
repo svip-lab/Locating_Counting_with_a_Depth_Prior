@@ -15,7 +15,7 @@ Download ShanghaiTechRGBD dataset from [OneDrive](https://yien01-my.sharepoint.c
 
 ## Test
 
-[checkpoint_270x480]([https://yien01-my.sharepoint.com/:f:/g/personal/doubility_z0_tn/EhY4Svr1rRlDi7apZTtpepQBJejNSSYnQk1UNSqxhQ3jqA?e=RdhCtz](https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/chenxn1_shanghaitech_edu_cn/EWCAditWMiRDk8yOnHWBmZEBZRy1c_noaTHGEnlxWVnrKQ?e=wi515J))
+[checkpoint_270x480]([https://yien01-my.sharepoint.com/:f:/g/personal/doubility_z0_tn/EhY4Svr1rRlDi7apZTtpepQBJejNSSYnQk1UNSqxhQ3jqA?e=RdhCtz](https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/chenxn1_shanghaitech_edu_cn/EWCAditWMiRDk8yOnHWBmZEBZRy1c_noaTHGEnlxWVnrKQ?e=wi515J).
 
 ## Acknowledgements
 
