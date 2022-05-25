@@ -24,7 +24,7 @@ If you have high capacity GPUs, we recommend training with larger size images.
 python ./tools/test_RGBD_metric.py \
 	--dataset RGBD --dataroot /p300/data/Dataset/SIST_RGBD/RGBDmerge_540P/Part_A/ \
 	--cfg_file lib/configs/resnext50_32x4d_GTAV \
-	--load_ckpt /p300/checkpoint.pth
+	--load_ckpt checkpoint.pth
 ```
 
 [[checkpoint 270x480]](https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/chenxn1_shanghaitech_edu_cn/EWCAditWMiRDk8yOnHWBmZEBZRy1c_noaTHGEnlxWVnrKQ?e=MvCO5G)
