@@ -15,7 +15,7 @@ Download ShanghaiTechRGBD dataset from [OneDrive](https://yien01-my.sharepoint.c
 
 ## Test
 
-[[checkpoint_270x480]](https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/chenxn1_shanghaitech_edu_cn/EWCAditWMiRDk8yOnHWBmZEBZRy1c_noaTHGEnlxWVnrKQ?e=MvCO5G)
+ResNext50 backbone [[checkpoint_270x480]](https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/chenxn1_shanghaitech_edu_cn/EWCAditWMiRDk8yOnHWBmZEBZRy1c_noaTHGEnlxWVnrKQ?e=MvCO5G)
 
 ## Acknowledgements
 
