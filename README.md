@@ -9,7 +9,7 @@ Download ShanghaiTechRGBD dataset from [OneDrive](https://yien01-my.sharepoint.c
 ## Depth Completion
 
 ## Style Transfer
-[SG-GAN](https://github.com/Peilun-Li/SG-GAN).
+By using [SG-GAN](https://github.com/Peilun-Li/SG-GAN).
 
 ## Train
 ```bash
