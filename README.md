@@ -15,10 +15,10 @@ Download ShanghaiTechRGBD dataset from [OneDrive](https://yien01-my.sharepoint.c
 
 ## Inference
 ```bash
-CUDA_VISIBLE_DEVICES=0 python ./tools/test_RGBD_metric.py \
-		--dataset RGBD --dataroot /p300/data/Dataset/SIST_RGBD/RGBDmerge_540P/Part_A/ \
-		--cfg_file lib/configs/resnext50_32x4d_GTAV \
-		--load_ckpt /p300/checkpoint.pth
+python ./tools/test_RGBD_metric.py \
+	--dataset RGBD --dataroot /p300/data/Dataset/SIST_RGBD/RGBDmerge_540P/Part_A/ \
+	--cfg_file lib/configs/resnext50_32x4d_GTAV \
+	--load_ckpt /p300/checkpoint.pth
 ```
 
 ResNext50 backbone [[checkpoint_270x480]](https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/chenxn1_shanghaitech_edu_cn/EWCAditWMiRDk8yOnHWBmZEBZRy1c_noaTHGEnlxWVnrKQ?e=MvCO5G)
