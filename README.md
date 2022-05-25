@@ -27,7 +27,7 @@ python ./tools/test_RGBD_metric.py \
 	--load_ckpt /p300/checkpoint.pth
 ```
 
-ResNext50 backbone [[checkpoint_270x480]](https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/chenxn1_shanghaitech_edu_cn/EWCAditWMiRDk8yOnHWBmZEBZRy1c_noaTHGEnlxWVnrKQ?e=MvCO5G)
+[[checkpoint_270x480]](https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/chenxn1_shanghaitech_edu_cn/EWCAditWMiRDk8yOnHWBmZEBZRy1c_noaTHGEnlxWVnrKQ?e=MvCO5G)
 
 ## Acknowledgements
 
